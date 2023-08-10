@@ -1,0 +1,176 @@
+* {
+  margin: 0px;
+}
+.page {
+  height: 100vh;
+  background-color: hsl(221, 100%, 96%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  height: 400px;
+  width: 550px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 30px;
+  display: flex;
+}
+.img {
+  height: 100%;
+  width: 50%;
+  background-color: hsl(241, 81%, 54%);
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.img h3 {
+  text-align: center;
+  margin-top: 30px;
+  color: hsl(221, 100%, 96%);
+}
+.circlebox {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0px 0px 0px;
+}
+.circle {
+  height: 150px;
+  width: 150px;
+  background-color: hsl(234, 85%, 45%);
+  align-items: center;
+  justify-content: center;
+  border-radius: 100px;
+}
+.heading1 h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 40px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.paragraph1 p {
+  color: hsl(221, 100%, 96%);
+  text-align: center;
+  font-size: 15px;
+}
+.heading2 h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 30px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.paragraph2 p {
+  color: hsl(221, 100%, 96%);
+  text-align: center;
+  font-size: 15px;
+  padding: 0px 20px 0px 20px;
+}
+.text {
+  height: 100%;
+  width: 40%;
+  padding: 30px;
+  justify-content: end;
+}
+.text h2 {
+  padding: 0px 0px 20px 0px;
+}
+.reaction {
+  height: 45px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: hsl(0, 35%, 94%);
+  border-radius: 10px;
+  margin: 0px 0px 10px 0px;
+  padding: 0px 10px 0px 10px;
+}
+.memory {
+  height: 45px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: hsl(0, 35%, 94%);
+  border-radius: 10px;
+  margin: 0px 0px 10px 0px;
+  padding: 0px 10px 0px 10px;
+}
+.verbal {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 45px;
+  width: 100%;
+  background-color: hsl(0, 35%, 94%);
+  border-radius: 10px;
+  margin: 0px 0px 10px 0px;
+  padding: 0px 10px 0px 10px;
+}
+.visual {
+  height: 45px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: hsl(0, 35%, 94%);
+  border-radius: 10px;
+  margin: 0px 0px 10px 0px;
+  padding: 0px 10px 0px 10px;
+}
+.text button {
+  height: 50px;
+  width: 100%;
+  align-items: center;
+  border-radius: 30px;
+  border: none;
+  font-size: 16px;
+  color: hsl(0, 35%, 94%);
+  background-color: hsl(224, 30%, 27%);
+  margin-top: 20px;
+}
+.icon1 {
+  display: flex;
+  align-items: center;
+}
+.icon1 h3 {
+  padding-left: 10px;
+  color: hsl(0, 100%, 67%);
+}
+.icon2 {
+  display: flex;
+  align-items: center;
+}
+.icon2 h3 {
+  padding-left: 10px;
+  color: hsl(39, 100%, 56%);
+}
+.memheading2 span {
+  color: hsl(241, 100%, 89%);
+}
+.icon3 {
+  display: flex;
+  align-items: center;
+}
+.icon3 h3 {
+  padding-left: 10px;
+  color: hsl(166, 100%, 37%);
+}
+.verheading2 span {
+  color: hsl(241, 100%, 89%);
+}
+.icon4 {
+  display: flex;
+  align-items: center;
+}
+.icon4 h3 {
+  padding-left: 10px;
+  color: hsl(234, 85%, 45%);
+}
+.recheading2 span {
+  color: hsl(241, 100%, 89%);
+}
